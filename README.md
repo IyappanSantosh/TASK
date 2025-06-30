@@ -1,4 +1,3 @@
-# screening test - tandemloop technologies pvt ltd
 ## candidate name: iyappan s p
 ## programming language: javascript (node.js)
 ### problem 1: simple calculator  
